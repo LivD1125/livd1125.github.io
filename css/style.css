@@ -1,3 +1,7 @@
+body {
+	background-color: #f7f7f2;
+}
+
 .home-page {
 	margin-top: 60px;
 }
@@ -8,4 +12,17 @@
 	height: 100%;
 	background-color: lightblue;
 	box-shadow: 5px 5px 2.5px lightgrey;
+}
+.welcome-paragraph {
+	line-height: 2.5;
+	font-size: 20px;
+	font-weight: 700;
+
+}
+.navbar {
+	background-color: #070756;
+}
+
+.first-row {
+	border-bottom: 2px solid #070756;
 }
