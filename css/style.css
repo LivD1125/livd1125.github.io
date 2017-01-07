@@ -25,3 +25,22 @@ body {
 .first-row {
 	border-bottom: 2px solid #070756;
 }
+
+.active {
+	a {
+		background-color: #03033a;
+	}
+}
+
+.navbar-brand {
+	color: #f7f7f2;
+
+}
+
+.navbar-nav {
+	li {
+		a {
+			color: #f7f7f2;
+		}
+	}
+}
